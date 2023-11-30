@@ -110,7 +110,7 @@ main strong {
     color: var(--cor4);
     font-weight: bold;
 }
-main>article>img{
+main>article>picture>img{
     width: 100%;
 }
 main>article>img.pequeno{
